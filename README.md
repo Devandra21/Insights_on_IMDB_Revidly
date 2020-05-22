@@ -1,6 +1,7 @@
 # Insights_on_IMDB_Revidly
 
 Dataset Link - https://www.imdb.com/interfaces/
+
 Worked on the above dataset to find insights of following questions:-
 
 1. Which Genre gets the maximum votes?
