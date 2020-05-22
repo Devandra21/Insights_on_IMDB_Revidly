@@ -12,7 +12,7 @@ Worked on the above dataset to find insights of following questions:-
 6. In which year maximum TV shows ended?
 7.  What factors lead to higher rating?
 
-According to calculated insights the calculated ansewrs of above questions are:-
+According to calculated insights the answers of above questions are:-
 1. Drama
 2. Altar Gültekin(actor)-Hazar Deniz BG(director)
 3. 16-20
